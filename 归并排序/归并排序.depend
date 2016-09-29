@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1471751612 source:f:\acm\πÈ≤¢≈≈–Ú\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<stack>
+	<queue>
+	<map>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
